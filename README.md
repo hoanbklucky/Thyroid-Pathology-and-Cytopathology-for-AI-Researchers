@@ -34,6 +34,8 @@ Explore **[Online Thyroid Image Atlases](ONLINE_IMAGE_ATLASES.md)** for annotate
 
 - **[Diagnostic thyroid lobectomy explained](DIAGNOSTIC_LOBECTOMY.md)** — why surgery may be needed after indeterminate FNA and how histology differs from cytology.
 
+- **[Cytology terminology glossary](CYTOLOGY_TERMINOLOGY_GLOSSARY.md)** — annotated benign Bethesda II and PTC-like Bethesda VI descriptions; explanations of 30+ morphology and microscopy terms.
+
 ## Essential references
 - Ohori et al. (2026), *The fascinating history of papillary thyroid carcinoma nuclei*. DOI: https://doi.org/10.1002/cncy.70100 (user-provided paper)
 - Papanicolaou Society of Cytopathology image atlas: https://www.papsociety.org/image-atlas/ (educational images; check attribution and reuse conditions)
