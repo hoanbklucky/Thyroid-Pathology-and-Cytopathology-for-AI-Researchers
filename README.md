@@ -23,6 +23,8 @@ Start with [Module 1](modules/01-architecture.md), then [Module 2](modules/02-nu
 
 For a staged textbook and atlas reading list, see **[Recommended Reading](RECOMMENDED_READING.md)**.
 
+Explore **[Online Thyroid Image Atlases](ONLINE_IMAGE_ATLASES.md)** for annotated FNA examples, case quizzes, and histology slides, and **[Thyroid Lesions and Bethesda](THYROID_LESIONS_AND_BETHESDA.md)** for a tumor-type comparison table and 2023 Bethesda malignancy-risk estimates.
+
 ## Essential references
 - Ohori et al. (2026), *The fascinating history of papillary thyroid carcinoma nuclei*. DOI: https://doi.org/10.1002/cncy.70100 (user-provided paper)
 - Papanicolaou Society of Cytopathology image atlas: https://www.papsociety.org/image-atlas/ (educational images; check attribution and reuse conditions)
