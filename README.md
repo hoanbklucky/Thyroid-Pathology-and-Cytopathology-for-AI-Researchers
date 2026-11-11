@@ -32,6 +32,8 @@ Explore **[Online Thyroid Image Atlases](ONLINE_IMAGE_ATLASES.md)** for annotate
 - **[Visual feature dictionary](VISUAL_FEATURE_DICTIONARY.md)** — cytology patterns, nuclear features, background clues, diagnostic limitations, and AI annotation fields.
 - **[Thyroid lesion types and Bethesda associations](THYROID_LESIONS_AND_BETHESDA.md)** — benign, low-risk, and malignant entities.
 
+- **[Diagnostic thyroid lobectomy explained](DIAGNOSTIC_LOBECTOMY.md)** — why surgery may be needed after indeterminate FNA and how histology differs from cytology.
+
 ## Essential references
 - Ohori et al. (2026), *The fascinating history of papillary thyroid carcinoma nuclei*. DOI: https://doi.org/10.1002/cncy.70100 (user-provided paper)
 - Papanicolaou Society of Cytopathology image atlas: https://www.papsociety.org/image-atlas/ (educational images; check attribution and reuse conditions)
