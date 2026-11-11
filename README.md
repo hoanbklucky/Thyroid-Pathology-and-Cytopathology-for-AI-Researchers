@@ -25,6 +25,13 @@ For a staged textbook and atlas reading list, see **[Recommended Reading](RECOMM
 
 Explore **[Online Thyroid Image Atlases](ONLINE_IMAGE_ATLASES.md)** for annotated FNA examples, case quizzes, and histology slides, and **[Thyroid Lesions and Bethesda](THYROID_LESIONS_AND_BETHESDA.md)** for a tumor-type comparison table and 2023 Bethesda malignancy-risk estimates.
 
+
+## Quick-reference tables
+
+- **[Bethesda 2023 categories and malignancy risk](BETHESDA_2023_TABLE.md)** — six categories, mean ROM and expected ranges.
+- **[Visual feature dictionary](VISUAL_FEATURE_DICTIONARY.md)** — cytology patterns, nuclear features, background clues, diagnostic limitations, and AI annotation fields.
+- **[Thyroid lesion types and Bethesda associations](THYROID_LESIONS_AND_BETHESDA.md)** — benign, low-risk, and malignant entities.
+
 ## Essential references
 - Ohori et al. (2026), *The fascinating history of papillary thyroid carcinoma nuclei*. DOI: https://doi.org/10.1002/cncy.70100 (user-provided paper)
 - Papanicolaou Society of Cytopathology image atlas: https://www.papsociety.org/image-atlas/ (educational images; check attribution and reuse conditions)
