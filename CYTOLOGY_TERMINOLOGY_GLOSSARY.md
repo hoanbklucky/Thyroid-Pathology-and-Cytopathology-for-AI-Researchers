@@ -1,22 +1,12 @@
 # Thyroid FNA cytology terminology: illustrated descriptions and engineering interpretations
 
-This guide unpacks two example descriptions of **Papanicolaou-stained thyroid FNA cytology** supplied for study: one benign follicular nodule (Bethesda II) and one malignant specimen (Bethesda VI) with **features characteristic of papillary thyroid carcinoma (PTC)**.
+This guide explains terminology commonly encountered in **Papanicolaou-stained thyroid FNA cytology**, including benign follicular nodules (Bethesda II) and malignant specimens with **features characteristic of papillary thyroid carcinoma (PTC)** (often Bethesda VI).
 
 **Scope:** These are illustrative descriptions, **not universal diagnostic rules**. Bethesda VI includes other malignancies (such as medullary and anaplastic thyroid carcinoma) with different morphology. A single feature (e.g., a groove or a high nuclear-to-cytoplasmic ratio) is not independently diagnostic.
 
-## 1. The two descriptions, annotated
+## 1. Scope and learning objectives
 
-### Example A — Benign follicular nodule, Bethesda II
-
-> “Thyroid FNA cytology, benign nodule, Bethesda II, predominantly scattered macrofollicular groups represented by flat, honeycomb sheets of evenly spaced follicular cells with delicate, wispy, moderate amount of cytoplasm and small dark nuclei. Cell clusters have rounded edges. Nuclear to cytoplasmic ratio is low. Background shows a film of pale blue to green protein that is colloid. Bright field microscope with Papanicolaou stain.”
-
-**In plain language:** The sample contains relatively orderly, flat groups of thyroid follicular cells. The nuclei are small and fairly evenly spaced, with ample cytoplasm around them. The background contains colloid, the protein-rich material normally stored inside thyroid follicles. These findings support a benign follicular nodule when interpreted with the full specimen and clinical context.
-
-### Example B — Malignant cytology, Bethesda VI, PTC-like morphology
-
-> “Thyroid FNA cytology, malignant thyroid FNA, Bethesda VI, crowded follicular clusters with oval, non-round nuclei, longitudinal nuclear grooves, occasional membrane-bound intranuclear pseudo-inclusions, nuclear enlargement with fine, pale, open chromatin. Groups may be numerous and show palisading nuclei at the edges. High nuclear to cytoplasmic ratios. Cytoplasm is dense with sharp edges, nuclei may be slightly angulated. Large cell clusters which are irregularly shaped, with angled edges or papillary in architecture. Background, scattered cells may include macrophages. Bright field microscope with Papanicolaou stain.”
-
-**In plain language:** The cells may form crowded or irregular clusters, with nuclei that are enlarged, oval, overlapping, grooved, or contain cytoplasmic pseudoinclusions. The chromatin can look unusually pale and fine. These are features associated with PTC, although their diagnostic significance depends on their combination, distribution, and the specimen as a whole.
+This glossary explains common terminology encountered in benign follicular thyroid FNA and papillary thyroid carcinoma-like cytology, including cell grouping, nuclear morphology, background material, and microscopy. The definitions are educational and should not be treated as standalone diagnostic criteria.
 
 ## 2. Cell grouping and architecture
 
@@ -77,7 +67,7 @@ If a cell's nuclear area is 30 µm² and its cytoplasmic area **excluding the nu
 
 ## 5. Benign-versus-PTC-like comparison (not a universal classifier)
 
-| Characteristic | Example benign follicular nodule | Example PTC-like malignant cytology |
+| Characteristic | Benign follicular nodule | PTC-like malignant cytology |
 |---|---|---|
 | Cell groups | Flat honeycomb sheets, relatively smooth edges | Crowded, irregular groups; papillary fragments may occur |
 | Nuclei | Small, relatively round, evenly spaced | Enlarged, oval/angulated, often crowded |
