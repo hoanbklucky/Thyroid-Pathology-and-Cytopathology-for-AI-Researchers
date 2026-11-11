@@ -2,6 +2,8 @@
 
 A morphology-first reference for **what is actually visible in cytology**. The entries describe typical patterns, not necessary/sufficient diagnostic criteria. No atlas images are copied here; use linked source pages to inspect examples. For education and research design, not independent diagnosis.
 
+For detailed explanations of terms such as **honeycomb sheets, macrofollicular groups, palisading nuclei, nuclear grooves, pseudoinclusions, chromatin, N:C ratio, colloid, and Pap stain**, see the [cytology terminology glossary](CYTOLOGY_TERMINOLOGY_GLOSSARY.md).
+
 ## How to read the dictionary
 
 - **Architecture in FNA** means *cell-group arrangement* (sheets, microfollicles, papillary fragments), **not** intact histologic architecture or capsule invasion.
