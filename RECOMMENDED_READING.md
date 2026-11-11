@@ -26,6 +26,10 @@ This is a staged reading list for engineers studying thyroid histopathology, FNA
 7. **2023 Bethesda System overview (PubMed).** https://pubmed.ncbi.nlm.nih.gov/37427847/
    - Supplemental overview of the updated reporting system.
 
+
+8. **National University of Singapore (NUS) CytoWeb — Thyroid Picture Atlas.** https://blog.nus.edu.sg/cytoweb/picture-atlas/thyroid/
+   - Additional thyroid cytopathology image resource for visual study. Compare cell groups and nuclear morphology with the descriptions in Modules 1–3. The page could not be independently inspected during this update; check its image captions and usage permissions before reusing figures or training models.
+
 ## Suggested reading by week
 
 | Week | Read | Output |
