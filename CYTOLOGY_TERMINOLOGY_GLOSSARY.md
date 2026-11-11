@@ -15,7 +15,7 @@ The **Image example** column links to externally hosted educational micrographs.
 ## 2. Cell grouping and architecture
 
 | Term | Pathology meaning | What an image-analysis researcher might look for | Caution | Image example |
-|---|---|---|---|
+|---|---|---|---|---|
 | **Follicular cell** | Epithelial cell lining thyroid follicles; produces thyroid hormones and thyroglobulin | Cell shape, nuclear/cytoplasmic segmentation | Not synonymous with follicular carcinoma | [NUS case 1: colloid nodule](https://medicine.nus.edu.sg/pathweb/cytopath/picture-atlas/fna-thyroid/) |
 | **Macrofollicular group** | Cytologic group reflecting relatively large, colloid-rich follicles | Broad sheets or groups with orderly spacing | An FNA smear does not preserve a complete follicle reliably | [Benign follicular nodules](https://www.papsociety.org/atlas/index.php?cat=3) |
 | **Honeycomb sheet** | Flat, cohesive monolayer of polygonal cells with regular spacing, resembling a honeycomb | Regular neighbor distances, similar nuclear sizes, little overlap | Thick areas may falsely appear crowded | [NUS case 1: honeycomb sheets](https://medicine.nus.edu.sg/pathweb/cytopath/picture-atlas/fna-thyroid/) |
@@ -32,7 +32,7 @@ The **Image example** column links to externally hosted educational micrographs.
 ## 3. Cell and nuclear morphology
 
 | Term | Pathology meaning | Visual cue / potential measurement | Caution | Image example |
-|---|---|---|---|
+|---|---|---|---|---|
 | **Cytoplasm** | Material inside the cell membrane, outside the nucleus | Segmented cytoplasmic area and texture | Boundaries can be faint | [NUS cases 1 and 7](https://medicine.nus.edu.sg/pathweb/cytopath/picture-atlas/fna-thyroid/) |
 | **Delicate / wispy cytoplasm** | Thin, pale, lightly stained cytoplasm | Low optical density, indistinct borders | Strongly affected by staining and focus | [NUS case 7](https://medicine.nus.edu.sg/pathweb/cytopath/picture-atlas/fna-thyroid/) |
 | **Moderate cytoplasm** | Visible amount of cytoplasm surrounding the nucleus | Cytoplasmic area relative to nuclear area | Subjective unless standardized | [NUS case 1 (general example)](https://medicine.nus.edu.sg/pathweb/cytopath/picture-atlas/fna-thyroid/) |
@@ -59,7 +59,7 @@ If a cell's nuclear area is 30 µm² and its cytoplasmic area **excluding the nu
 ## 4. Background material, preparation, and microscopy
 
 | Term | Meaning | Typical appearance | Research consideration | Image example |
-|---|---|---|---|
+|---|---|---|---|---|
 | **Colloid** | Thyroglobulin-rich proteinaceous material stored in thyroid follicle lumens | Thin watery film or thicker pools; may stain pale blue/green with Pap stain | Amount/appearance depends on sampling and preparation | [NUS case 1: colloid](https://medicine.nus.edu.sg/pathweb/cytopath/picture-atlas/fna-thyroid/) |
 | **Proteinaceous background** | Extracellular protein-rich material | Amorphous staining between cells | Not all background protein is colloid | [NUS case 1](https://medicine.nus.edu.sg/pathweb/cytopath/picture-atlas/fna-thyroid/) |
 | **Macrophage** | Immune cell that clears debris; common in cystic/degenerative lesions | Larger cells with abundant, sometimes foamy cytoplasm | Macrophages are **not** a malignancy marker | [NUS case 1: macrophages](https://medicine.nus.edu.sg/pathweb/cytopath/picture-atlas/fna-thyroid/) |
