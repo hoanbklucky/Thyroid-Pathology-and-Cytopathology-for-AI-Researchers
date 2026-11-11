@@ -15,6 +15,8 @@
 
 **Source:** [Ali et al., The 2023 Bethesda System for Reporting Thyroid Cytopathology (2023)](https://pubmed.ncbi.nlm.nih.gov/37427847/); [original paper Table 2](https://semnro.com.ar/wp-content/uploads/thy.2023.0141.pdf); [CMS reproduction of ROM table](https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=39650).
 
+**What does diagnostic lobectomy mean?** See [Diagnostic thyroid lobectomy explained](DIAGNOSTIC_LOBECTOMY.md) for a plain-language explanation of the procedure and why FNA cannot show capsular or vascular invasion.
+
 ## Interpret correctly
 
 - **Bethesda I does not mean benign**: the specimen was insufficient for a confident diagnosis.
